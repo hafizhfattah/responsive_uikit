@@ -28,5 +28,5 @@ Made With Flutter
     alt="Main Screen"
     title="Main Screen"
     style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
-* Dekstop
+* Desktop
 <br>
