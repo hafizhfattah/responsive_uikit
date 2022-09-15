@@ -17,14 +17,14 @@ Made With Flutter
 * Mobile
 <br>
 <img
-    src="/assets/image2.png"
+    src="/assets/image3.png"
     alt="Main Screen"
     title="Main Screen"
     style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
 * Tablet
 <br>
 <img
-    src="/assets/image3.png"
+    src="/assets/image2.png"
     alt="Main Screen"
     title="Main Screen"
     style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
