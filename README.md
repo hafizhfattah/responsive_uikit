@@ -11,7 +11,7 @@ Made With Flutter
 
 <img
     src="/assets/image1.png"
-    alt="Main Screen"
+    alt="Main Sreen"
     title="Main Screen"
     style="display: inline-block; margin: 0 auto; width: 200; height: 400px">
 * Mobile
