@@ -53,7 +53,7 @@ class HomePage extends StatelessWidget {
                     width: 100,
                     height: 50,
                     color: Colors.black.withOpacity(0.5),
-                    child: Text('${daftar[index]}'),
+                    child: Text('$index'),
                   ),
                 ),
               ),
