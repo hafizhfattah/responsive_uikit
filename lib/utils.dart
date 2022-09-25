@@ -2,29 +2,7 @@ import 'package:flutter/material.dart';
 
 const Color prim = Color.fromRGBO(60, 41, 144, 1);
 
-final List daftar = [
-  "1",
-  "2",
-  "3",
-  "4",
-  "5",
-  "6",
-  "7",
-  "8",
-  "9",
-  "10",
-  "11",
-  "12",
-  "13",
-  "14",
-  "15",
-  "16",
-  "17",
-  "18",
-  "19",
-  "20",
-];
-
+//List of Link
 final List link = [
   'https://picsum.photos/1000',
   'https://picsum.photos/1100',
@@ -48,6 +26,7 @@ final List link = [
   'https://picsum.photos/2900',
 ];
 
+//Responsive
 class Responsive extends StatelessWidget {
   final Widget? mobile;
   final Widget? tablet;
