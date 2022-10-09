@@ -1,7 +1,6 @@
-### 📦 **Responsive UI**
+### 📦 **Responsive App**
 
-A Responsive UI To All Platforms & Size
-Made With Flutter
+A Responsive App for All Platforms & Size
 
 ### 🚀 **Getting Started**
 1. Clone this project || Download Zip from GitHub
