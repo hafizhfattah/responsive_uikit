@@ -1,6 +1,6 @@
-### 📦 **Responsive App**
+### 📦 **Responsive UIKit**
 
-A Responsive App for All Platforms & Size
+A Responsive UIKit for All Platforms & Size
 
 ### 🚀 **Getting Started**
 1. Clone this project || Download Zip from GitHub
