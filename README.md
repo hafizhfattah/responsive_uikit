@@ -4,7 +4,7 @@ A Responsive UIKit for All Platforms & Size
 
 ### 🚀 **Getting Started**
 1. Clone this project || Download Zip from GitHub
-2. Run the project In Web Or Emulator
+2. Run the project In Web Or Emulator.
 
 ### 📷 **Screenshots**
 
